@@ -1,3 +1,3 @@
 alert('bienvenido');
 
-alert('Eset es un sistema de logeo');
+alert('Este es un sistema de logeo');
